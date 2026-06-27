@@ -1,0 +1,5 @@
+public final class dev/buescher/kotlinx/essentials/Essentials {
+	public static final field INSTANCE Ldev/buescher/kotlinx/essentials/Essentials;
+	public final fun greeting ()Ljava/lang/String;
+}
+
