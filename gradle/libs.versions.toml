@@ -2,7 +2,7 @@
 java = "25"
 android = "36"
 kotlin = "2.4.0"
-android-tools = "9.2.1"
+android-tools = "9.4.1"
 dokka = "2.2.0"
 
 [libraries]
